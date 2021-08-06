@@ -587,7 +587,7 @@ margin:auto auto auto auto}
 
 p
 {
-font-size:16px
+font-size:16px;
 text-decoration-style: -moz-none;}
 
 .contactcolor {
@@ -798,8 +798,8 @@ background-image:url(img/image-de-presentation.jpg)}
 
 	.bloc
 	{
-		padding-left:constant(safe-area-inset-left);
-	padding-right:constant(safe-area-inset-right)}
+	
+}
 
 	.bloc-group,.bloc-group .bloc
 	{
@@ -809,8 +809,7 @@ background-image:url(img/image-de-presentation.jpg)}
 	.bloc-fill-screen .fill-bloc-top-edge,.bloc-fill-screen .fill-bloc-bottom-edge
 	{
 		padding:0 20px;
-		padding-left:constant(safe-area-inset-left);
-	padding-right:constant(safe-area-inset-right)}
+	
 }
 
 @media (max-width:767px)
