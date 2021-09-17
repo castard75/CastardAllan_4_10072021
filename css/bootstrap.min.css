@@ -4570,7 +4570,7 @@ overflow-y:auto}
 {
 max-height:340px}
 
-@media (max-device-width:480px) and (orientation:landscape)
+@media (max-width:480px) and (orientation:landscape)
 {
 	.navbar-fixed-bottom .navbar-collapse,.navbar-fixed-top .navbar-collapse
 	{
